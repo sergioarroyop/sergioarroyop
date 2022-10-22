@@ -63,11 +63,11 @@ I'm a DevOps Engineer trying to code a little bit.
     <tbody>
       <tr>
 	<td><a href="https://github.com/sergioarroyop/dockergram"><b>🤖 DockerGram</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/sergioarroyop/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/sergioarroyop/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/sergioarroyop/TradeByte?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sergioarroyop/TradeByte?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/sergioarroyop/TradeByte?label=python&style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/sergioarroyop/dockergram?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/sergioarroyop/dockergram?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/sergioarroyop/dockergram?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sergioarroyop/dockergram?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/sergioarroyop/dockergram?label=python&style=flat-square"/></td>
       </tr>
     </tbody>
   </table>
