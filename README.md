@@ -3,7 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sergioarroyop)
 
 I'm a DevOps Engineer trying to code a little bit.
-<a href="https://www.credential.net/f9501d58-52fc-4cf1-953e-3789ddb6941b?key=9a99c2962e05e70aff97bf6d7dbf0e55015681322e29f481248fadd6fa7864cf" target="_blank"><img align="right" height="350" src="https://templates.images.credential.net/16590181582433100721069374350922.png" alt="gcp badge"></a>
+<a href="https://www.credential.net/f9501d58-52fc-4cf1-953e-3789ddb6941b" target="_blank"><img align="right" height="150" src="https://templates.images.credential.net/16590181582433100721069374350922.png" alt="gcp badge"></a>
+<a href="https://www.credential.net/88549465-1743-4f58-8c8e-8fc8acd26f4c" target="_blank"><img align="right" height="150" src="https://templates.images.credential.net/16590187353005143094254042570164.png" alt="gcp badge"></a>
+<a href="https://www.credential.net/5ee931b5-a512-4c2e-882a-bc25835b8c37" target="_blank"><img align="right" height="150" src="https://templates.images.credential.net/16590189116921664807425410566136.png" alt="gcp badge"></a>
 
 ### Talking about Personal Stuffs:
 
