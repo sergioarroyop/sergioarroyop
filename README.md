@@ -9,18 +9,12 @@ I'm a DevOps Engineer trying to code a little bit.
 
 ### Talking about Personal Stuffs:
 
-- 🏢 &nbsp; I'm currently working at **Making Science**
+- 🏢 &nbsp; I'm currently working at **Holafly**
 - 🛠 &nbsp; I’m currently working with Terraform, Docker, Python, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sergioarroyop).
 - 👾 &nbsp; Fun fact: You can blow up your Linux shell with this `:(){ :|:& };:`.
 - ⚙️ &nbsp; I use daily: `.sh`,`.py`, `.tf`, `Docker`, `K8S`, `Google Cloud Platform`
-
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
 
 ### Languages and Tools:
 
